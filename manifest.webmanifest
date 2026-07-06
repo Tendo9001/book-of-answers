@@ -1,0 +1,22 @@
+{
+  "name": "The Book of Answers",
+  "short_name": "Answers",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#08121F",
+  "theme_color": "#08121F",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
